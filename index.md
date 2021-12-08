@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### My Creative WOrks 
 
-[Project 1 Title](/sample_page)
+[Ripped Effect](/sample_page)
 <img src="images/Giveon-605x400.jpg?raw=true"/>
 
 ---
