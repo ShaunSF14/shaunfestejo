@@ -9,7 +9,7 @@
 
 ---
 [Graffiti](/pdf/sample_presentation.pdf)
-<img src="images/untitled.png?raw=true"/>
+<img src="images/untitled(1).jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
