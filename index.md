@@ -8,12 +8,12 @@
 <img src="images/Giveon-605x400.jpg?raw=true"/>
 
 ---
-[Earth Day](/pdf/sample_presentation.pdf)
+[Galaxy Cat](/pdf/sample_presentation.pdf)
 <img src="images/outer-space-universe-nebula-stars-star-cluster-blue-purple-pink-picture-id1173422519_b=1&k=20&m=1173422519&s=170667a&w=0&h=gTJJ83auXIPVBFG7TTRAz7ctAyoMCZPY96CRKMDzDsk=.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Grafiiti](http://example.com/)
+<img src="images/Untitled(1).jpg?raw=true"/>
 
 ---
 
