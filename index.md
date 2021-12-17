@@ -8,8 +8,8 @@
 <img src="images/Giveon-605x400.jpg?raw=true"/>
 
 ---
-[Graffiti](/pdf/sample_presentation.pdf)
-<img src="images/untitled(1).jpg?raw=true"/>
+[Earth Day](/pdf/sample_presentation.pdf)
+<img src="images/untitled.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
