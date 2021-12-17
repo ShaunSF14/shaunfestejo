@@ -9,7 +9,7 @@
 
 ---
 [Earth Day](/pdf/sample_presentation.pdf)
-<img src="images/untitled.png?raw=true"/>
+<img src="images/outer-space-universe-nebula-stars-star-cluster-blue-purple-pink-picture-id1173422519_b=1&k=20&m=1173422519&s=170667a&w=0&h=gTJJ83auXIPVBFG7TTRAz7ctAyoMCZPY96CRKMDzDsk=.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
